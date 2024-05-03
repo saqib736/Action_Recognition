@@ -1,0 +1,11 @@
+activity, label, number fo sequence
+moving_stuff, 0, 9
+picking_up_from_ground, 1, 8
+sitting_down_on_chair, 2, 9
+sitting_down_on_ground, 3, 2
+sitting_on_chair, 4, 26
+sitting_on_ground, 5, 3
+standing, 6, 10
+standing_up_from_chair, 7, 9
+standing_up_from_ground, 8, 2
+walking, 10, 19
