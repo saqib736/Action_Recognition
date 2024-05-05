@@ -8,7 +8,8 @@ The data preparation process for training these models is based on the technique
 
 **Example Heat Maps Illustration:**
 <!-- Placeholder for heat map image -->
-![Heat Maps for Activities](path_to_heatmaps_image.jpg)
+![Heat Maps for Pick Up Activity](pickup_sequence.png)
+![Heat Maps for Moving Chair Activity](moving_stuff.png)
 *Heat maps showing detailed skeletal movements for two different activities.*
 
 ## Model Overview: CNN+LSTM+Attention
@@ -33,7 +34,7 @@ The sequence of features processed by the LSTM and weighted by the attention mec
 
 **Model Architecture Diagram:**
 <!-- Placeholder for model architecture diagram -->
-![Model Architecture](path_to_model_architecture_image.jpg)
+![Model Architecture](model_arch.png)
 *Diagram of the CNN+LSTM+Attention model architecture.*
 
 ## Training Results
@@ -42,7 +43,7 @@ The model was trained over 80 epochs with a learning rate of 1e-5 using the Adam
 
 **Training Curves:**
 <!-- Placeholder for training and testing curves -->
-![Training and Testing Curves](path_to_performance_curves.jpg)
+![Training and Testing Curves](train.png)
 *Mean accuracy and loss curves for training and testing phases.*
 
 
