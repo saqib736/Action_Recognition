@@ -44,6 +44,7 @@ The model was trained over 80 epochs with a learning rate of 1e-5 using the Adam
 **Training Curves:**
 <!-- Placeholder for training and testing curves -->
 ![Training Curves](train.png)
+
 *Mean accuracy and loss curves for training phases.*
 
 
