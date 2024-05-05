@@ -32,7 +32,7 @@ An integrated attention layer prioritizes significant frames over others, focusi
 
 The sequence of features processed by the LSTM and weighted by the attention mechanism is directed through several linear layers, concluding with a softmax output. This final layer classifies the sequence into predefined categories based on the extracted features.
 
-**Model Architecture Diagram:**
+**Simplified Model Architecture Diagram:**
 <!-- Placeholder for model architecture diagram -->
 ![Model Architecture](model_arch.png)
 *Diagram of the CNN+LSTM+Attention model architecture.*
@@ -43,8 +43,8 @@ The model was trained over 80 epochs with a learning rate of 1e-5 using the Adam
 
 **Training Curves:**
 <!-- Placeholder for training and testing curves -->
-![Training and Testing Curves](train.png)
-*Mean accuracy and loss curves for training and testing phases.*
+![Training Curves](train.png)
+*Mean accuracy and loss curves for training phases.*
 
 
 Thank you for exploring the Action Recognition repository. 
